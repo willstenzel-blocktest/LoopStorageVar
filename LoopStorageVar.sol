@@ -7,4 +7,5 @@ contract LoopStorageVar {
     for (uint i = 0 ; i < x ; i++) {
       sum += i;
     }
+  }
 }
